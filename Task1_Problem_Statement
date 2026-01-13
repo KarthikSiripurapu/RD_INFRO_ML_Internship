@@ -1,27 +1,10 @@
-# PROBLEM OVERVIEW
-
-- Customer Churn Prediction is a Machine Learning project that predicts whether a customer is likely to leave a company (churn) based on historical data.
-  It helps businesses retain customers, reduce losses, and improve customer satisfaction.
-
 # PROJECT STATEMENT
 
-- Customer acquisition is expensive. Losing existing customers impacts revenue.
-  The goal of this project is to analyze customer behavior and predict churn in advance so companies can take preventive actions.
+1. Customer churn refers to the situation where customers stop using a company’s service.
 
-1. Technologies Used :
+2. Retaining customers is important because acquiring new customers is more expensive.
 
-   Programming Language: Python
+3. The objective of this project is to analyze customer data and build a machine learning
+   model that can predict whether a customer will churn or not.
 
-2. Libraries:
-
-   NumPy
-
-   Pandas
-
-   Matplotlib & Seaborn
-
-   Scikit-learn
-
-3. Tools: Jupyter Notebook \ VS Code
-
-4. Version Control: GitHub
+4. This prediction helps businesses take preventive actions to retain customers.
