@@ -1,16 +1,33 @@
 # Problem Statement
 
-Telecom companies lose revenue when customers stop using their services (this is called churn).
-The goal is to predict whether a customer will churn or not based on their service usage and personal details.
+     - Telecom companies lose revenue when customers stop using their services (this is called churn).
+
+     - The goal is to predict whether a customer will churn or not based on their service usage and personal details.
 
 # Objective 
 
-1. Analyze customer data
+     1. Analyze customer data
 
-2. Identify factors influencing churn
+     2. Identify factors influencing churn
 
-3. Build a machine learning model to predict churn
+     3. Build a machine learning model to predict churn
 
-4. Evaluate model performance
+     4. Evaluate model performance
 
-5. Prepare the model for deployment
+     5. Prepare the model for deployment
+
+# Final ML Objective -
+
+   To perform binary classification, where:
+
+        1 → Customer will churn
+
+        0 → Customer will not churn
+
+# Why Binary Classification?
+
+      * The target variable Churn has only two possible values: Yes or No
+
+      * Historical labeled data is available
+
+      * The goal is prediction, not grouping or trend analysis
