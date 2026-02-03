@@ -1,1 +1,16 @@
+# Problem Statement
 
+Telecom companies lose revenue when customers stop using their services (this is called churn).
+The goal is to predict whether a customer will churn or not based on their service usage and personal details.
+
+# Objective 
+
+1. Analyze customer data
+
+2. Identify factors influencing churn
+
+3. Build a machine learning model to predict churn
+
+4. Evaluate model performance
+
+5. Prepare the model for deployment
