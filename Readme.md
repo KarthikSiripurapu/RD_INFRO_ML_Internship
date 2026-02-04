@@ -12,15 +12,16 @@
 
 ## Workflow
 
- 1. Data Collection
- 2. Data Preprocessing
- 3. Exploratory Data Analysis
- 4. Feature Engineering
- 5. Model Training
- 6. Model Evaluation
- 7. Model Deployment
+ 1.Problem Statement
+ 2. Data Collection
+ 3. Data Preprocessing
+ 4. Exploratory Data Analysis
+ 5. Feature Engineering
+ 6. Model Training
+ 7. Model Evaluation
+ 8. Model Deployment
 
 ## Result 
 
- The model achieves approximately 85% accuracy and helps identify customers likely to churn.
+ The model achieves approximately 80% accuracy and helps identify customers likely to churn.
 
