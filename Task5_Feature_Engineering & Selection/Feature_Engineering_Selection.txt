@@ -15,7 +15,8 @@
 
 3. Feature Selection
 
-    The customerID column was removed since it does not contribute to churn prediction.
+    Feature selection was performed during preprocessing by removing non-informative
+    columns such as customerID. No additional feature removal was required at this stage.
 
 4. Final Dataset
 
