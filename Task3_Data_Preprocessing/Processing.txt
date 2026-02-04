@@ -1,1 +1,32 @@
+# DATA PREPROCESSING & CLEANING
 
+1. Data Loading
+    The raw dataset (telco_customer_churn.csv) was loaded from the data/raw directory
+    using pandas for further preprocessing.
+
+2. Data Type Conversion
+    The 'TotalCharges' column was converted from object type to numeric using
+    pd.to_numeric() with error handling. Invalid entries were converted to NaN.
+
+3. Missing Value Handling
+    Missing values in the 'TotalCharges' column were filled using the median value
+    of the column to avoid the impact of outliers.
+
+4. Categorical Encoding
+    Categorical features were converted into numerical form using one-hot encoding
+    (get_dummies) to make the data suitable for machine learning algorithms.
+
+5. Feature Selection
+    The target variable 'Churn' was separated from the input features.
+    Only relevant features were retained for model training.
+
+6. Data Consistency Check
+    The dataset was checked for remaining missing values and inconsistencies after
+    preprocessing.
+
+7. Saving Processed Data
+    The cleaned and encoded dataset was saved as 'processed_data.csv' in the
+    data/processed directory for use in EDA and model training.
+
+This preprocessing step ensures that the data is clean, consistent, and ready
+for machine learning model development.
