@@ -1,1 +1,22 @@
+# FEATURE ENGINEERING AND FEATURE SELECTION
 
+1. Objective
+
+    The objective of this step is to improve model performance by creating simple
+    features and selecting useful attributes.
+
+2. Feature Engineering
+
+    A new feature 'LongTermCustomer' was created based on customer tenure to
+    differentiate long-term and short-term customers.
+
+    Another feature 'AvgMonthlySpend' was derived from TotalCharges and tenure
+    to represent customer spending behavior.
+
+3. Feature Selection
+
+    The customerID column was removed since it does not contribute to churn prediction.
+
+4. Final Dataset
+
+    The final dataset with engineered and selected features was saved for model training.
