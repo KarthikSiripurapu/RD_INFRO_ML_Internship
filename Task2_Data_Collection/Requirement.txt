@@ -1,1 +1,23 @@
+# Libraries
 
+    1. pandas → Load CSV file, handle dataframes
+
+    2. numpy → Numerical operations
+
+    3. matplotlib → Basic plotting
+
+    4. seaborn → Statistical visualizations (EDA)
+
+# Source
+
+    - Kaggle datasets ( Telco-Customer-Churn )
+
+# Why This Dataset is Suitable?
+
+  * Real-world business problem
+
+  * Balanced mix of categorical & numerical data
+
+  * Ideal for binary classification
+
+  * Beginner-friendly and interview-relevant
