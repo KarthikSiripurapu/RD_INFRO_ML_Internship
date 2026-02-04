@@ -1,1 +1,17 @@
+# EXPLORATORY DATA ANALYSIS (EDA)
 
+1. Objective
+    The objective of Exploratory Data Analysis (EDA) is to understand the structure,
+    distribution, and relationships within the dataset before model training.
+
+2. Dataset Overview
+    The processed dataset was loaded from the data/processed directory.
+    Basic information such as the number of rows, columns, and data types
+    was examined to understand the dataset structure.
+
+3. Target Variable Analysis
+    The distribution of the target variable 'Churn' was analyzed to check
+    class balance between churned and non-churned customers.
+
+EDA was performed only for analysis purposes and no modifications were made
+to the dataset during this stage.
