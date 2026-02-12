@@ -10,7 +10,7 @@
  - Seaborn
  - Scikit-Learn
 
-## Workflow
+## Workflow :
 
  1.Problem Statement
  2. Data Collection
@@ -21,7 +21,7 @@
  7. Model Evaluation
  8. Model Deployment
 
-## Result 
+## Result :
 
  The model achieves approximately 80% accuracy and helps identify customers likely to churn.
 
